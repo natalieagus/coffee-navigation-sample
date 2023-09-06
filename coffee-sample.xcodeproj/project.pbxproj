@@ -92,7 +92,6 @@
 		FA8FFBC4284EA48D00A36D4F = {
 			isa = PBXGroup;
 			children = (
-				817A21FC2AA8249F00EAC9A8 /* ModalView.swift */,
 				FA8FFBCF284EA48D00A36D4F /* coffee-sample */,
 				FA8FFBCE284EA48D00A36D4F /* Products */,
 			);
@@ -109,6 +108,7 @@
 		FA8FFBCF284EA48D00A36D4F /* coffee-sample */ = {
 			isa = PBXGroup;
 			children = (
+				817A21FC2AA8249F00EAC9A8 /* ModalView.swift */,
 				FA8FFBE2284EB49900A36D4F /* Info.plist */,
 				FA8FFBD0284EA48D00A36D4F /* coffee_sampleApp.swift */,
 				FA8FFBD2284EA48D00A36D4F /* ContentView.swift */,
