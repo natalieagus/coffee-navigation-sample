@@ -14,7 +14,7 @@
 		817A21B22AA76F0D00EAC9A8 /* Drink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817A21B12AA76F0D00EAC9A8 /* Drink.swift */; };
 		817A21B42AA76F2700EAC9A8 /* AddressList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817A21B32AA76F2700EAC9A8 /* AddressList.swift */; };
 		817A21B72AA776C300EAC9A8 /* DrinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817A21B62AA776C300EAC9A8 /* DrinkView.swift */; };
-		817A21B92AA781A200EAC9A8 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817A21B82AA781A200EAC9A8 /* ModalView.swift */; };
+		817A21FD2AA8249F00EAC9A8 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817A21FC2AA8249F00EAC9A8 /* ModalView.swift */; };
 		FA8FFBD1284EA48D00A36D4F /* coffee_sampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FFBD0284EA48D00A36D4F /* coffee_sampleApp.swift */; };
 		FA8FFBD3284EA48D00A36D4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FFBD2284EA48D00A36D4F /* ContentView.swift */; };
 		FA8FFBD5284EA48E00A36D4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FFBD4284EA48E00A36D4F /* Assets.xcassets */; };
@@ -33,7 +33,7 @@
 		817A21B12AA76F0D00EAC9A8 /* Drink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drink.swift; sourceTree = "<group>"; };
 		817A21B32AA76F2700EAC9A8 /* AddressList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressList.swift; sourceTree = "<group>"; };
 		817A21B62AA776C300EAC9A8 /* DrinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkView.swift; sourceTree = "<group>"; };
-		817A21B82AA781A200EAC9A8 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ModalView.swift; path = "../../../../.Trash/coffee-navigation-sample/cafe-menu/DetailedView/ModalView.swift"; sourceTree = "<group>"; };
+		817A21FC2AA8249F00EAC9A8 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 		FA8FFBCD284EA48D00A36D4F /* coffee-sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "coffee-sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8FFBD0284EA48D00A36D4F /* coffee_sampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coffee_sampleApp.swift; sourceTree = "<group>"; };
 		FA8FFBD2284EA48D00A36D4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +92,7 @@
 		FA8FFBC4284EA48D00A36D4F = {
 			isa = PBXGroup;
 			children = (
+				817A21FC2AA8249F00EAC9A8 /* ModalView.swift */,
 				FA8FFBCF284EA48D00A36D4F /* coffee-sample */,
 				FA8FFBCE284EA48D00A36D4F /* Products */,
 			);
@@ -116,7 +117,6 @@
 				817A21B52AA7751800EAC9A8 /* RootView */,
 				817A21AF2AA76ED400EAC9A8 /* DetailedView */,
 				817A21B02AA76EF500EAC9A8 /* Model */,
-				817A21B82AA781A200EAC9A8 /* ModalView.swift */,
 			);
 			path = "coffee-sample";
 			sourceTree = "<group>";
@@ -203,7 +203,7 @@
 				817A21B72AA776C300EAC9A8 /* DrinkView.swift in Sources */,
 				817A21B22AA76F0D00EAC9A8 /* Drink.swift in Sources */,
 				8100113B2AA74A0500FA4869 /* CartView.swift in Sources */,
-				817A21B92AA781A200EAC9A8 /* ModalView.swift in Sources */,
+				817A21FD2AA8249F00EAC9A8 /* ModalView.swift in Sources */,
 				FA8FFBD3284EA48D00A36D4F /* ContentView.swift in Sources */,
 				FA8FFBD1284EA48D00A36D4F /* coffee_sampleApp.swift in Sources */,
 				817A21AE2AA768AC00EAC9A8 /* DetailedRow.swift in Sources */,
